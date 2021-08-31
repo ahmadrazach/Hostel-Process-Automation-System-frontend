@@ -1,4 +1,4 @@
-# Student-front-end
+# Hostel Process Automation System Front end 
 It's a front end of Admin side of Hostel Process Automation System
 Frontend demo : https://hostel-process-automation-frontend.netlify.app/w_home.html
 
