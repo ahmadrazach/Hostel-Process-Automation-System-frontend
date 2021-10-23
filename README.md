@@ -1,28 +1,28 @@
 # Hostel Process Automation System Front end <br>
 
 ##### Table of Contents  
-[1.Demo](#demo)
-[2.Description](#description)
-[3.Demo includes Frontend Pages for:](#includepages)
-[4.Technologies Used ](#usedtech)
+- [Demo](#demo)
+- [Description](#description)
+- [Demo includes Frontend Pages for:](#includepages)
+- [Technologies Used ](#usedtech)
 
-<a name="demo"/>
-## 1.Demo (Frontend) : https://hostel-process-automation-frontend.netlify.app/w_home.html <br>
 
-<a name="description"/>
-## 2.Description
-It's a front end of Admin side of Hostel Process Automation System.<br>
 
-<a name="includepages"/>
-### 3.Pages for:
+## 1. Demo (Frontend) : [Click here for demo](https://hostel-process-automation-frontend.netlify.app/w_home.html) <a name="demo"/>
+
+## 2. Description<a name="description"/>
+It's a front end of Admin side of Hostel Process Automation System.
+
+
+### 3. Pages for:<a name="includepages"/>
 - Dashboard
 - Generating Reports ( Graph.js used for making graphs)
 - Mess menus ( CRUD operation )
 - Room Allocation ( search + Allocation)
 - Attendance
 
-<a name="usedtech"/>
-### 4.Technologies Used :<br>
+
+### 4. Technologies Used :<a name="usedtech"/>
 #### Frontend
 - HTML
 - CSS
