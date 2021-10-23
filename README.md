@@ -21,6 +21,11 @@ It's a front end of Admin side of Hostel Process Automation System.<br>
 #### Database
 - MySQL
 <br>
-
+##### Table of Contents  
+[Headers](#headers)  
+[Emphasis](#emphasis)  
+...snip...    
+<a name="headers"/>
+## Headers
 
 This system was made in my final year project and it was used to make our whole process of Hostel Automated!
