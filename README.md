@@ -1,18 +1,28 @@
 # Hostel Process Automation System Front end <br>
-## Demo (Frontend) : https://hostel-process-automation-frontend.netlify.app/w_home.html <br>
-## Description
-It's a front end of Admin side of Hostel Process Automation System.<br>
+
 ##### Table of Contents  
-[Headers](#headers)  
-[Emphasis](#emphasis)  
-### Pages for:
+[1.Demo](#demo)  
+[2.Description](#description)
+[3.Demo includes Frontend Pages for:](#includepages)  
+[4.Technologies Used ](#usedtech) 
+
+<a name="demo"/>
+## 1.Demo (Frontend) : https://hostel-process-automation-frontend.netlify.app/w_home.html <br>
+
+<a name="description"/>
+## 2.Description
+It's a front end of Admin side of Hostel Process Automation System.<br>
+
+<a name="includepages"/>
+### 3.Pages for:
 - Dashboard
 - Generating Reports ( Graph.js used for making graphs)
 - Mess menus ( CRUD operation )
 - Room Allocation ( search + Allocation)
 - Attendance
 
-### Technologies Used :<br>
+<a name="usedtech"/>
+### 4.Technologies Used :<br>
 #### Frontend
 - HTML
 - CSS
@@ -23,10 +33,6 @@ It's a front end of Admin side of Hostel Process Automation System.<br>
 - .NETCORE
 #### Database
 - MySQL
-
-
-...snip...    
-<a name="headers"/>
-## Headers
+   
 
 This system was made in my final year project and it was used to make our whole process of Hostel Automated!
