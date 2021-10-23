@@ -2,6 +2,9 @@
 ## Demo (Frontend) : https://hostel-process-automation-frontend.netlify.app/w_home.html <br>
 ## Description
 It's a front end of Admin side of Hostel Process Automation System.<br>
+##### Table of Contents  
+[Headers](#headers)  
+[Emphasis](#emphasis)  
 ### Pages for:
 - Dashboard
 - Generating Reports ( Graph.js used for making graphs)
@@ -21,9 +24,7 @@ It's a front end of Admin side of Hostel Process Automation System.<br>
 #### Database
 - MySQL
 
-##### Table of Contents  
-[Headers](#headers)  
-[Emphasis](#emphasis)  
+
 ...snip...    
 <a name="headers"/>
 ## Headers
