@@ -20,7 +20,7 @@ It's a front end of Admin side of Hostel Process Automation System.<br>
 - .NETCORE
 #### Database
 - MySQL
-<br>
+
 ##### Table of Contents  
 [Headers](#headers)  
 [Emphasis](#emphasis)  
