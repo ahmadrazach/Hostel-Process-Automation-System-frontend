@@ -1,6 +1,6 @@
 # Hostel Process Automation System Front end <br>
 
-##### Table of Contents  
+### Table of Contents  
 - [Demo](#demo)
 - [Description](#description)
 - [Demo includes Frontend Pages for:](#includepages)
@@ -14,7 +14,7 @@
 It's a front end of Admin side of Hostel Process Automation System.
 
 
-### 3. Pages for:<a name="includepages"/>
+## 3. Pages for:<a name="includepages"/>
 - Dashboard
 - Generating Reports ( Graph.js used for making graphs)
 - Mess menus ( CRUD operation )
@@ -22,16 +22,16 @@ It's a front end of Admin side of Hostel Process Automation System.
 - Attendance
 
 
-### 4. Technologies Used :<a name="usedtech"/>
-#### Frontend
+## 4. Technologies Used :<a name="usedtech"/>
+### Frontend
 - HTML
 - CSS
 - Javascript
 - Bootstrap
 - Chart.js
-#### Backend
+### Backend
 - .NETCORE
-#### Database
+### Database
 - MySQL
    
 
