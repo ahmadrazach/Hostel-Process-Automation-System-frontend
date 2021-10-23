@@ -7,8 +7,8 @@
 - [Technologies Used ](#usedtech)
 
 
-
 ## 1. Demo (Frontend) : [Click here for demo](https://hostel-process-automation-frontend.netlify.app/w_home.html) <a name="demo"/>
+
 
 ## 2. Description<a name="description"/>
 It's a front end of Admin side of Hostel Process Automation System.
