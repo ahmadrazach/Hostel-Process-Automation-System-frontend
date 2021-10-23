@@ -1,10 +1,10 @@
 # Hostel Process Automation System Front end <br>
 
 ##### Table of Contents  
-[1.Demo](#demo)  
+[1.Demo](#demo)
 [2.Description](#description)
-[3.Demo includes Frontend Pages for:](#includepages)  
-[4.Technologies Used ](#usedtech) 
+[3.Demo includes Frontend Pages for:](#includepages)
+[4.Technologies Used ](#usedtech)
 
 <a name="demo"/>
 ## 1.Demo (Frontend) : https://hostel-process-automation-frontend.netlify.app/w_home.html <br>
